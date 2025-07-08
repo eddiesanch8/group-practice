@@ -6,5 +6,6 @@ EMJ-firstcommit1.0
 Eddie Millsaps Jr
 KB-firstcommit1.0
 Kaia Bryant 
+My favorite color is PINK!
 Teresa Gomez
 
