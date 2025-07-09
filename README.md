@@ -6,7 +6,8 @@ jc-first-commit1.0
 EMJ-firstcommit1.0
 Eddie Millsaps Jr
 KB-firstcommit1.0
-Kaia Bryant 
+Kaia Bryant THIS IS PRACTICE
+My favorite color is PINK!
 Teresa Gomez
 
 
